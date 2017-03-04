@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimary">#1c1c1f</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
     <color name="color_app_black">#191414</color>
     <color name="color_app_green">#1ed760</color>
+    <color name="color_app_gray">#88898c</color>
 </resources>
